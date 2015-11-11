@@ -2,12 +2,7 @@
 Doing some chess or whatever.
 
 
-Stealing your boards.
+Stealing your [boards](http://www.chessboardjs.com/).
 
-http://www.chessboardjs.com/
-
-
-Stealing your logic.
-
-https://github.com/jhlywa/chess.js
+Stealing your [logic](https://github.com/jhlywa/chess.js).
 
