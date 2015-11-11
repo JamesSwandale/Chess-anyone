@@ -1,2 +1,2 @@
-# Chess-anyone-
+# Chess, anyone?
 Doing some chess or whatever.
