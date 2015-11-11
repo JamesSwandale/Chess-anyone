@@ -1,5 +1,5 @@
 # Chess, anyone?
-Doing some chess or whatever.
+Doing some [chess](http://dwcares.com/realchess/) or whatever.
 
 
 Stealing your [boards](http://www.chessboardjs.com/).
